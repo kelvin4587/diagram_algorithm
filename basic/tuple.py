@@ -1,3 +1,3 @@
 menu=('fish','chicken','beef')
-for m in menu :
+for m in menu:
     print(m)
